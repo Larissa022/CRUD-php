@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(179, 157, 219);
+    margin: 900;
+    padding: 200; 
+    font-family: Arial, Helvetica, sans-serif
+}
+input{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+th{
+    background-color: white;
+  
+    font-weight: bold;
+}
+
+table{
+    background-color: black;
+}
+
+td,th{
+    background-color: aliceblue;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+button{
+    border: none;
+}
